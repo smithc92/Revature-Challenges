@@ -1,4 +1,5 @@
 ﻿using System;
+using Week1.Domain;
 
 namespace Week1.Console
 {
@@ -7,8 +8,12 @@ namespace Week1.Console
         static void Main(string[] args)
         {
             System.Console.WriteLine("Type word to be tested: ");
-            String s = System.Console.ReadLine();
-            if(Equals(Palindrome(s),"true"))
+            Palindrome p = new Palindrome();
+            string s = System.Console.ReadLine();
+            //Palindrome p = new PalindromeCheck(s);
+            //Palindrome.PalindromeCheck(s)
+            //string test = Palindrome.PalindromeCheck(s);
+            if(p.PalindromeCheck(s))
             {
               System.Console.WriteLine(s + " is a Palindrome.");
             }
@@ -19,7 +24,7 @@ namespace Week1.Console
 
         }
 
-        private static string Palindrome(string s)
+        /* private static string Palindrome(string s)
         {
           System.Console.WriteLine("Test");
           char[] arr = s.ToCharArray();
@@ -34,6 +39,6 @@ namespace Week1.Console
           {
             return "false";
           }
-        }
+        }*/
     }
 }

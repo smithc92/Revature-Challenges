@@ -9,3 +9,6 @@ D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console
 D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console.pdb
 D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.dll
 D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.pdb
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Domain.dll
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Domain.pdb
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.csproj.CopyComplete

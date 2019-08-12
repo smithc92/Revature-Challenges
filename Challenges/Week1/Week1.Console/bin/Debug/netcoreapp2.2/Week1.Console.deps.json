@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "Week1.Console/1.0.0": {
+        "dependencies": {
+          "Week1.Domain": "1.0.0"
+        },
         "runtime": {
           "Week1.Console.dll": {}
+        }
+      },
+      "Week1.Domain/1.0.0": {
+        "runtime": {
+          "Week1.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Week1.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Week1.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
