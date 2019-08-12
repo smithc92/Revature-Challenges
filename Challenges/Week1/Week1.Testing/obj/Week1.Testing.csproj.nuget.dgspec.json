@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Revature\\Challenges\\Week1\\Week1.Testing\\Week1.Testing.csproj": {}
+  },
+  "projects": {
+    "D:\\Revature\\Challenges\\Week1\\Week1.Testing\\Week1.Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Revature\\Challenges\\Week1\\Week1.Testing\\Week1.Testing.csproj",
+        "projectName": "Week1.Testing",
+        "projectPath": "D:\\Revature\\Challenges\\Week1\\Week1.Testing\\Week1.Testing.csproj",
+        "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
+        "outputPath": "D:\\Revature\\Challenges\\Week1\\Week1.Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

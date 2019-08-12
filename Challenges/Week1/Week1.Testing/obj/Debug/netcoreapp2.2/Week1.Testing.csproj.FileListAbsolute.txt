@@ -1,0 +1,14 @@
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\Week1.Testing.deps.json
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\Week1.Testing.runtimeconfig.json
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\Week1.Testing.runtimeconfig.dev.json
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\Week1.Testing.dll
+D:\Revature\Challenges\Week1\Week1.Testing\bin\Debug\netcoreapp2.2\Week1.Testing.pdb
+D:\Revature\Challenges\Week1\Week1.Testing\obj\Debug\netcoreapp2.2\Week1.Testing.csprojAssemblyReference.cache
+D:\Revature\Challenges\Week1\Week1.Testing\obj\Debug\netcoreapp2.2\Week1.Testing.csproj.CoreCompileInputs.cache
+D:\Revature\Challenges\Week1\Week1.Testing\obj\Debug\netcoreapp2.2\Week1.Testing.AssemblyInfoInputs.cache
+D:\Revature\Challenges\Week1\Week1.Testing\obj\Debug\netcoreapp2.2\Week1.Testing.AssemblyInfo.cs
+D:\Revature\Challenges\Week1\Week1.Testing\obj\Debug\netcoreapp2.2\Week1.Testing.dll
+D:\Revature\Challenges\Week1\Week1.Testing\obj\Debug\netcoreapp2.2\Week1.Testing.pdb

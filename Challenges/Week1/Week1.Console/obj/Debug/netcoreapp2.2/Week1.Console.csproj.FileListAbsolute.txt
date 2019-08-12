@@ -1,0 +1,11 @@
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.csprojAssemblyReference.cache
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.csproj.CoreCompileInputs.cache
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.AssemblyInfoInputs.cache
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.AssemblyInfo.cs
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console.deps.json
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console.runtimeconfig.json
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console.runtimeconfig.dev.json
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console.dll
+D:\Revature\Challenges\Week1\Week1.Console\bin\Debug\netcoreapp2.2\Week1.Console.pdb
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.dll
+D:\Revature\Challenges\Week1\Week1.Console\obj\Debug\netcoreapp2.2\Week1.Console.pdb
